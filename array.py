@@ -17,3 +17,4 @@ for linha in matriz:
         if (linha - valor_coluna == 0):
             print("diagona principal")
         print("linha", linha, "coluna", valor_coluna)
+        
